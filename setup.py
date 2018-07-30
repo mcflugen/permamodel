@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='permamodel',
-      version='0.1.2',
+      version='0.1.3',
       author='Elchin Jafarov and Scott Stewart',
       author_email='james.stewart@colorado.edu',
       description='Permamodel',
